@@ -1,6 +1,6 @@
 
 # WckdHax
-This is a edit of FabricHax, A collection of Minecraft life hacks. 
+This is a edit of [FabricHax](https://github.com/pranavgade20/FabricHax), A collection of Minecraft life hacks. 
 I removed a lot of the stuff to keep it fair for survival servers that don't allow hacks.
 
 ## Installation
@@ -17,4 +17,6 @@ The GUI also has tabs for configuring the modules.
 * **Harvester**: Harvests mature crops near you. Just go near a mature crop to use
 * **Freecam**: Spectator/fly mode to look at your awesome builds. (Shortcut `right_shift + z`)
 * **Walker**: Walk in a straight line, useful on nether roof. (Shortcut: `right_shift + w`)
+
+## To do list
 * **Fullbright**: Disables darkness/makes everything completely bright.
