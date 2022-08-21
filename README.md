@@ -1,6 +1,6 @@
 
 # WckdHax
-This is a edit of [FabricHax](https://github.com/pranavgade20/FabricHax), A collection of Minecraft life hacks. 
+A edit of [FabricHax](https://github.com/pranavgade20/FabricHax), A collection of Minecraft life hacks. 
 I removed a lot of the stuff to keep it fair for survival servers that don't allow hacks.
 
 ## Installation
