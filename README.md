@@ -19,4 +19,4 @@ The GUI also has tabs for configuring the modules.
 * **Walker**: Walk in a straight line, useful on nether roof. (Shortcut: `right_shift + w`)
 
 ## To do list
-* **Fullbright**: Disables darkness/makes everything completely bright.
+* **Fix Fullbright**: Currently doesn't work.
