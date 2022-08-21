@@ -8,7 +8,7 @@ Download the latest jar file here [releases](link here) and put it in your mods 
 You also need to get https://www.curseforge.com/minecraft/mc-mods/fabric-api in your mods folder.
 
 ## Usage
-The mod has few modules active by default. You can access the full list of toggles using the keys `right_shift + r`.  
+The mod has few modules active by default. You can access the GUI with `right_shift + r`.  
 The GUI also has tabs for configuring the modules.
 
 ## Included modules
