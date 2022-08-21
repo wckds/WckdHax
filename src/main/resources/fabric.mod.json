@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "wckdhax",
+  "version": "${version}",
+
+  "name": "WckdHax",
+  "description": "A collection of life hacks.",
+  "authors": [
+    "Pranav Gade"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": "https://github.com/wckds/wckdhax"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/modid/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "io.github.wckds.wckdhax.Main"
+    ]
+  },
+  "mixins": [
+    "mixins.json",
+    "mixins.render.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.12.12",
+    "fabric": "*",
+    "minecraft": "1.18.x",
+    "java": ">=17"
+  }
+}
