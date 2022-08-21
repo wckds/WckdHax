@@ -15,7 +15,7 @@ The GUI also has tabs for configuring the modules.
 * **Auto Tool**: Scrolls the correct tool in your hotbar when you try to mine a block.
 * **Farm Planter**: Places seeds on farmland. Just hold the seeds in your hand and go near farmland
 * **Harvester**: Harvests mature crops near you. Just go near a mature crop to use
-* **Freecam**: Spectator/fly mode to look at your awesome builds. (Shortcut `right_shift + z`)
+* **Freecam**: Spectator fly mode to look at your awesome builds. (Shortcut `right_shift + z`)
 * **Walker**: Walk in a straight line, useful on nether roof. (Shortcut: `right_shift + w`)
 
 ## To do list
